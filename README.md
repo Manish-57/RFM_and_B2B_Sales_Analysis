@@ -1,1 +1,1 @@
-# RFM_and_B2B_Sales_Analysis
+# RFM Customer Segmentation and B2B Sales Analysis
